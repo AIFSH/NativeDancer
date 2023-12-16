@@ -1,12 +1,14 @@
 # NativeDancer
 make your charactor Dancing as Native style
+based on magicanimate and facefusion, a dancing video and a static img is only need!
 
 ## install
 ```
 git clone https://github.com/AIFSH/NativeDancer.git
 cd NativeDancer
-pyhton install.py
+python install.py
 ```
+step by step video [【NativeDancer开源啦，一起来安装部署吧！】](https://www.bilibili.com/video/BV1aN411V75n/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
 ## use
 ```
 python dance.py
